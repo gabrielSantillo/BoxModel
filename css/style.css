@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+h3 {
+    background-color: blueviolet;
+}
+
+p {
+    background-color: coral;
+}
+
+#article_1{
+    background-color: green;
+}
+
+#article_2 {
+    background-color: red;
+}
